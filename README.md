@@ -91,7 +91,7 @@ You will be required to write 3 functions with the prototypes given below. (Note
     This function determines the user's score based on the time taken, with scores ranging from 10 for times less than 1,
       decreasing by one point for each additional second, and reaching 0 for times greater than or equal to 10.
 
-### Other Useful Information
+## Other Useful Information
 
 Seed the random number generator at the beginning of your program. Do this exactly once. Here is the line of code:
 
